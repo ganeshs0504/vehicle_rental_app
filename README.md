@@ -10,8 +10,6 @@ Key features include:
 - Actionable insights through data-driven reporting.
 - Secure user authentication with password hashing.
 
-![UI Placeholder](path/to/ui_image.png)
-
 ---
 
 ## Features 🌟
@@ -65,24 +63,15 @@ The project follows a client-server architecture:
 ---
 
 ## Screenshots 📸
-![UI Placeholder](path/to/ui_image.png)
+<p align="center">
+   <img width="839" alt="image" src="https://github.com/user-attachments/assets/11cf75ea-de35-4682-9d8f-842a58775e20">
+   <img width="501" alt="image" src="https://github.com/user-attachments/assets/736cb70d-db68-4114-970f-fed8fcacc061">
+   <img width="539" alt="image" src="https://github.com/user-attachments/assets/f59e9d74-20b5-4613-8644-6c67a6e68afd">
 
+</p>
 ---
 
 ## Future Enhancements 🔮
 - Integration with Google Maps for real-time vehicle tracking.
 - Advanced filtering options for vehicle rentals.
 - Predictive maintenance features for proactive fleet management.
-
----
-
-## License 📄
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-### Contributors ❤️
-- Aaditya Poonia
-- Aditya Madhira
-- Ganesh Sankar
-- Zoltan Zrupko
